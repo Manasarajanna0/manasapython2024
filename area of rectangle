@@ -1,0 +1,5 @@
+area=float(input("enter the value of l and b"))
+l=float(input("enter the value of l"))
+b=float(input("enter the value of b"))
+area=l*b
+print(area)
