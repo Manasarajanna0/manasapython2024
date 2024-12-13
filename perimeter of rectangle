@@ -1,0 +1,5 @@
+l=float(input("enter the value of l"))
+w=float(input("enter the value of w"))
+perimeter=2*(l+w)
+print(perimeter)
+
