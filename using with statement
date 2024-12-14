@@ -1,0 +1,3 @@
+with open("/content/mansaa.txt","r")as file:
+  conten=file.read()
+  print(content)
