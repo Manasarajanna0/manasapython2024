@@ -1,0 +1,2 @@
+with open("/pexels-tranmautritam-245035.jpg","rb")as file:
+  data=file.read()
