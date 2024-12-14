@@ -1,0 +1,4 @@
+with open('destination_file.txt', 'w') as dest:
+    dest.write(content)
+
+print("File contents copied successfully.")
