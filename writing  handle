@@ -1,0 +1,3 @@
+file=open("/content/mansaa.txt","w")
+file.write("gud morning")
+file.close()
